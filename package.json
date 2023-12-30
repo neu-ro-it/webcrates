@@ -42,7 +42,7 @@
     "deta": "^1.0.1",
     "dotenv": "^10.0.0",
     "ejs": "^3.1.6",
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "metadata-scraper": "^0.2.43",
     "nanoid": "^3.1.30",
     "puppeteer-core": "^10.4.0",
